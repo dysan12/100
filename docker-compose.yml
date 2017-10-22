@@ -1,0 +1,9 @@
+version: "3"
+
+services: 
+    system:
+        build:
+            context: ./Ubuntu
+        volumes:
+            - ./100_zadan:/100_zadan
+        tty: true
