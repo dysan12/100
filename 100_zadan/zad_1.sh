@@ -1,2 +1,1 @@
-zad_1
-
+fdisk -l
